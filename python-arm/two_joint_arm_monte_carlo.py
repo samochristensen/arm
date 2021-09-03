@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-from utils import TwoLinkArm
+from two_joint_arm_utils import TwoLinkArm
 from random import randrange
 
 arm = TwoLinkArm()
